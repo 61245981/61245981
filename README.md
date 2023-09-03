@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🤑I’m QQ：61245981
+- 🤑I’ QQ：61245981
+- 谢谢
 
 <!---
 61245981/61245981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
